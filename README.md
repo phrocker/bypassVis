@@ -1,2 +1,1 @@
-bypassVis
-=========
+Quick and dirty example to bypass visibilities in accumulo. This quick proof of concept was used to read arbitrary entries, regardless of visibility. This example could be easily extended to support ranges by way of the key extents. 
